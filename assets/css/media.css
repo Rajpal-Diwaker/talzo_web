@@ -1,0 +1,249 @@
+@media only screen and (max-width: 1900px) {
+
+}
+@media only screen and (max-width: 1700px) {
+}
+@media only screen and (max-width: 1600px) {
+    
+}
+@media only screen and (max-width: 1440px) {
+
+}
+@media only screen and (max-width: 1400px) {
+    .dashboard_cont span {
+    font-size: 18px;
+    }
+    .dashboard_cont h2 {
+    font-size: 25px;
+    }
+
+}
+@media only screen and (max-width: 1350px) {
+
+}
+@media only screen and (max-width: 1320px) {
+
+}
+@media only screen and (max-width: 1280px) {
+
+}
+@media only screen and (max-width: 1200px) {
+
+}
+@media only screen and (max-width: 1170px) {
+
+}
+@media only screen and (max-width: 1080px) {
+
+}
+@media only screen and (max-width: 1024px) {
+
+}
+@media only screen and (max-width: 1023px) {
+
+}
+@media screen and (max-width: 992px) {
+.tab-hide {
+display: none;
+}
+.atab-menu{
+    display: none;
+}
+.atab-menumb{
+    display: block;
+}
+.side_bar {
+width: 250px;
+height: 100%;
+position: fixed;
+top: 0px;
+box-shadow: 10px 50px 100px rgba(0, 0, 0, 0.8);
+z-index: 11111;
+left: -350px;
+overflow:auto;
+}
+/* .header_wrapper {
+padding: 15px;
+} */
+.dashboard_header_wrap{
+width: 100%;
+margin-left: 0%;
+}
+.dashboard_data_wrap{
+    margin: 70px 10px 25px 10px;
+}
+.tab-menu {
+    display: inline-block;
+    color:#262b41;
+    padding: 5px 8px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 2px;
+    margin-left: 5px;
+    margin-top: 16px;
+    background: #d38030;
+    background: -moz-linear-gradient(left,  #d38030 0%, #ffe86f 47%, #ffe86f 47%, #ffe86f 50%, #d38030 100%);
+    background: -webkit-linear-gradient(left,  #d38030 0%,#ffe86f 47%,#ffe86f 47%,#ffe86f 50%,#d38030 100%);
+    background: linear-gradient(to right,  #d38030 0%,#ffe86f 47%,#ffe86f 47%,#ffe86f 50%,#d38030 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d38030', endColorstr='#d38030',GradientType=1 );
+}
+.header_wrapper {
+position: fixed;
+width: 100%;
+top: 0px;
+left: 0px;
+}
+.logo img {
+width: 60%;
+}
+.db-2 ul li {
+width: 50%;
+}
+.sp-top-30 {
+margin-top: 30px;
+}
+.blog-login-in {
+width: 75%;
+}
+.blog-long_in_wrap .blog-login-in {
+    width: 100%;
+    padding: 30px 15px;
+}
+.service_provider_wrap {
+    padding: 10px 20px;
+}
+
+
+}
+@media only screen and (max-width:840px) {
+
+
+}
+
+@media screen and (max-width: 767px) {
+.login_wrap .login_bx .login_card {
+    padding: 40px 30px;
+    margin: 20px;
+}
+ .form_wrap {
+ margin: 0 auto;
+ padding: 0;
+ }
+ .user_id_label {
+  margin-bottom:0px;
+ }
+ .user_id_input {
+  margin-bottom:0px;
+ }
+ .btn_large_email button {
+    width:180px;
+ }
+ .dashboard_wrap {
+      padding: 10px 20px;
+}
+.chart_heading {
+   margin: 0px;
+}
+.chart_wrap_analytics .trail_version {
+    left: 0px;
+}
+.group_user_cont .group_detailimg {
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+}
+.group_user_cont .group_detail_heading {
+    margin-left:60px;
+}
+.group_user_cont .group_detail_heading h2 {
+    margin-top: -15px;
+}
+.dashbord_cont_wrapper {
+   padding: 15px 5px;
+}
+.group_user_cont .group_detail_heading h4 {
+    font-size: 16px;
+    max-width: 100px;
+}
+.group_user_cont h2 {
+    margin: 10px;
+}
+.group_notification .actionopenbx {
+    right: 5px;
+}
+.group_notification {
+   padding: 20px 45px 5px 20px;
+}
+.group_notification .user_name h4 {
+    font-size: 16px;
+    max-width: 100px;
+}
+.group_list_name {
+    width: 100% !important;
+    border-radius: 4px;
+    background-color: #262b41;
+}
+.users_list_del_opt {
+    position: absolute;
+    top: -5px;
+    right: 10px;
+}
+.dashboard_cont {
+   padding: 15px 5px;
+}
+.dashboard_cont h2 {
+    margin: 0;
+    padding: 5px 0;
+    font-size: 25px;
+}
+.dashboard_cont span {
+    font-size: 20px;
+}
+.user_profile_wrap .form-control {
+    width: 100%;
+}
+.edit_del {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.edit_profile_img_wrapper .edit_profile_img {
+    margin: 15px auto;
+  }
+.edit_profile_upload-icon-img {
+   right: 0px;
+}
+.view_post_btn_wrap a button {
+    width: 125px;
+}
+.user_post_data .post_data {
+    margin: 0 auto;
+}
+.send_notification_wrap .form-group textarea.form-control {
+    width: 100%;
+}
+.send_notification_wrap .form-group .multi_drop_down_wrap .btn-group .dropdown-menu{
+  width: 100%;
+}
+.send_notification_wrap .form-group .multi_drop_down_wrap .btn-group button {
+    width: 100% !important; 
+    height: 40px;
+}
+.send_notification_wrap .form-group .multi_drop_down_wrap {
+    width: fit-content !important;
+}
+
+}
+@media only screen and (max-width: 640px) {
+
+
+}
+@media only screen and (max-width: 414px) {
+
+
+}
+@media only screen and (max-width: 320px) {
+
+}
+
+
